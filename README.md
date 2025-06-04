@@ -6,6 +6,7 @@ I'm a Computer Science & Mathematics student at Rutgers University (Class of 202
 - 🎓 B.S. in Computer Science & Mathematics, Rutgers University
 - 🧠 Passionate about AI, backend engineering, and cloud infrastructure
 - 💼 Former Web Developer Intern @ TeenXperience
+- 🌐 Currently as Technology Academy Extern @ AT&T
 - 🛠️ Building projects that solve real problems with clean, scalable code
 
 ## 🧰 Tech Stack
